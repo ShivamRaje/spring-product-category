@@ -17,7 +17,7 @@ This is a Spring Boot-based API that manages categories and products. It demonst
 
 ## Technologies Used
 
-- **Spring Boot**: Backend framework
+- **Spring Boot**: Backend framework.
 - **Spring Data JPA**: For database interaction
 - **MySQL**: Relational database
 - **Postman**: For testing API endpoints
