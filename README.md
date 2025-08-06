@@ -6,7 +6,7 @@ This is a Spring Boot-based API that manages categories and products. It demonst
 
 - **Category CRUD Operations**:
   - Create, Read, Update, Delete categories..
-  - Server-side pagination to retrieve categories..
+  - Server-side pagination to retrieve categories...
 
 - **Product CRUD Operations**:
   - Create, Read, Update, Delete products.
