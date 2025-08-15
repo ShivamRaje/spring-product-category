@@ -44,7 +44,7 @@ This is a Spring Boot-based API that manages categories and products. It demonst
 
 1. Clone this repository.
 2. Set up a MySQL database with proper credentials in the `application.properties` file.
-3. Run the Spring Boot application using your preferred IDE or the command line (`mvn spring-boot:run`).
+3. Run the Spring Boot application using your preferred IDE or the command line (`mvn spring-boot:run`)..
 4. Use Postman to interact with the API endpoints.
 
 ## Contribution
